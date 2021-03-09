@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "478831566267",
+    "firebase_url": "https://flashchattuto.firebaseio.com",
+    "project_id": "flashchattuto",
+    "storage_bucket": "flashchattuto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478831566267:android:d5a65adb9740b37fcab89e",
+        "android_client_info": {
+          "package_name": "co.fernandolorca.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478831566267-2l0i4iler63bruqoevbu87gcvdi0bmq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9xq9ZtBqbpgKgSAcDaawZuXflwtrR-Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478831566267-2l0i4iler63bruqoevbu87gcvdi0bmq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
